@@ -1,9 +1,6 @@
 <h1 align="center">
 <br>
   <img src="https://user-images.githubusercontent.com/18500523/77490588-09bfef00-6e1a-11ea-91e4-4bc23c276916.png" width="120">
-<br>
-<br>
-Be The Hero
 </h1>
 <p align="center">Um Aplicativo Moblie e Web que Conecta Voluntarios as ONGs</p>
 <p align="center">Construido na Semana OmniStack 11.0</p></br>
@@ -15,7 +12,8 @@ Be The Hero
 </p>
 
 <div>
-  <img align="center" src="https://user-images.githubusercontent.com/18500523/77491483-a5eaf580-6e1c-11ea-9ab3-f48ff0edc096.png" height="425">
+  <img src="https://user-images.githubusercontent.com/18500523/77491483-a5eaf580-6e1c-11ea-9ab3-f48ff0edc096.png" height="425">
+  <img src="(https://user-images.githubusercontent.com/18500523/77492785-2c550680-6e20-11ea-8faa-98db2395dc32.png" height="425">
 </div>
 
 <hr />
