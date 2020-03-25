@@ -6,7 +6,7 @@
 Be The Hero
 </h1>
 
-<p align="center">Um Aplicativo Moblie e Web que Conecta Voluntarios as ONGs</p></br>
+<p align="center">Um Aplicativo Moblie e Web que Conecta Voluntarios as ONGs</p>
 <p align="center">Construido na Semana OmniStack 11.0</p></br>
 
 
@@ -17,7 +17,7 @@ Be The Hero
 </p>
 
 <div>
-  
+  <img src="https://user-images.githubusercontent.com/18500523/77491483-a5eaf580-6e1c-11ea-9ab3-f48ff0edc096.png" height="725">
 </div>
 
 <hr />
