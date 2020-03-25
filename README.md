@@ -19,7 +19,7 @@
 -->
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url](https://www.linkedin.com/in/leal-felipe/)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -177,7 +177,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- MARKDOWN LINKS & IMAGES
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
@@ -189,7 +189,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/leal-felipe/
 [product-screenshot]: images/screenshot.png
 
--->
+--->
