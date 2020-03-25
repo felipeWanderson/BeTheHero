@@ -38,15 +38,15 @@ Projeto construido com as Tecnologias Atuais da Web.
 
 ### Como Inciar o Servidor 
 
-1. Entre na Pasta backend: `cd backend`
-2. Execute `yarn` para instalar as dependências do Projeto<br />
+1. Entre na pasta backend: `cd backend`
+2. Execute `yarn` para instalar as dependências do projeto<br />
 3. Execute `yarn dev` para iniciar o servidor
 
 ### Como Inciar a Aplicação WEB
 
-1. Entre na Pasta backend: `cd frontend`
-2. Execute `yarn` para instalar as dependências do Projeto<br />
-3. Execute `yarn start` para iniciar o servidor
+1. Entre na pasta forntend: `cd frontend`
+2. Execute `yarn` para instalar as dependências do projeto<br />
+3. Execute `yarn start` para iniciar a aplicação
 
 ## Licença
 
