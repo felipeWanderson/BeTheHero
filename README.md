@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://user-images.githubusercontent.com/18500523/77490588-09bfef00-6e1a-11ea-91e4-4bc23c276916.png" width="120">
+  <img src="https://user-images.githubusercontent.com/18500523/77535534-7fa77300-6e79-11ea-8c9d-9b5a6db633d2.png" width="220">
 </h1>
 <p align="center">:stars: Aplicativos que conecta ONGs aos Heróis :muscle:</p>
 <p align="center">:rocket:Construido na Semana OmniStack 11.0</p></br>
