@@ -34,13 +34,19 @@ Projeto construido com as Tecnologias Atuais da Web.
 
 ## Primeiros Passos
 
-1. Clone o repositório com  `git@github.com:felipeWanderson/BeTheHero.git`
+1. Clone o repositório com  `git clone git@github.com:felipeWanderson/BeTheHero.git`
 
 ### Como Inciar o Servidor 
 
 1. Entre na Pasta backend: `cd backend`
 2. Execute `yarn` para instalar as dependências do Projeto<br />
 3. Execute `yarn dev` para iniciar o servidor
+
+### Como Inciar a Aplicação WEB
+
+1. Entre na Pasta backend: `cd frontend`
+2. Execute `yarn` para instalar as dependências do Projeto<br />
+3. Execute `yarn start` para iniciar o servidor
 
 ## Licença
 
