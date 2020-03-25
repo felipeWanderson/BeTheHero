@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
   <a href="https://www.linkedin.com/in/felipe-wanderson-2020/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg">  
-  </a> 
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555">  </a> 
 </p>
 
 ## Objetivo
