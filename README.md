@@ -11,6 +11,9 @@
   </a>
 </p>
 
+## Objetivo
+
+<p>O intuito do projeto é construir uma aplicação web e moblie para conectar valuntários que queiram ajudar as ONGs nos seus casos !</p>
 <div>
   <img src="https://user-images.githubusercontent.com/18500523/77491483-a5eaf580-6e1c-11ea-9ab3-f48ff0edc096.png" height="380">
   <img src="https://user-images.githubusercontent.com/18500523/77492785-2c550680-6e20-11ea-8faa-98db2395dc32.png" height="380">
