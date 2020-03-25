@@ -5,10 +5,8 @@
 <br>
 Be The Hero
 </h1>
-
 <p align="center">Um Aplicativo Moblie e Web que Conecta Voluntarios as ONGs</p>
 <p align="center">Construido na Semana OmniStack 11.0</p></br>
-
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -22,15 +20,25 @@ Be The Hero
 
 <hr />
 
-## Features
+## Tecnologias
 
-Projeto construido com as Tecnologias a Atuais
+Projeto construido com as Tecnologias Atuais da Web.
 
 - ⚛️ **React Js** — Uma Biblioteca Javascript para construção de Interfaces.
 - ⚛️ **React Native** — Uma Biblioteca que possibilita criação de Apps Nativos para Android/iOs
 - 💹 **Node Js** — Permite trabalhar com Javascript em Servidores
 - 📄 **SQLite** — Banco de Dados Relacional
 
-## License
+## Primeiros Passos
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+1. Clone o repositório com  `git@github.com:felipeWanderson/BeTheHero.git`
+
+### Como Inciar o Servidor 
+
+1. Move yourself to the backend folder: `cd backend`
+2. Execute `yarn` para instalar as dependências do Projeto<br />
+3. Execute `yarn dev` para iniciar o servidor
+
+## Licença
+
+Este Projeto está sobre a MIT License - Veja mais em [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
