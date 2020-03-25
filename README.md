@@ -38,7 +38,7 @@ Projeto construido com as Tecnologias Atuais da Web.
 
 ### Como Inciar o Servidor 
 
-1. Move yourself to the backend folder: `cd backend`
+1. Entre na Pasta backend: `cd backend`
 2. Execute `yarn` para instalar as dependências do Projeto<br />
 3. Execute `yarn dev` para iniciar o servidor
 
