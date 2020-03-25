@@ -2,8 +2,8 @@
 <br>
   <img src="https://user-images.githubusercontent.com/18500523/77490588-09bfef00-6e1a-11ea-91e4-4bc23c276916.png" width="120">
 </h1>
-<p align="center">Um Aplicativo Moblie e Web que Conecta Voluntarios as ONGs</p>
-<p align="center">Construido na Semana OmniStack 11.0</p></br>
+<p align="center">:stars: Aplicativos que conecta ONGs aos Heróis :muscle:</p>
+<p align="center">:rocket:Construido na Semana OmniStack 11.0</p></br>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
