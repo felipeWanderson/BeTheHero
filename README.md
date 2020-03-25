@@ -17,7 +17,7 @@ Be The Hero
 </p>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/18500523/77491483-a5eaf580-6e1c-11ea-9ab3-f48ff0edc096.png" height="425">
+  <img align="center" src="https://user-images.githubusercontent.com/18500523/77491483-a5eaf580-6e1c-11ea-9ab3-f48ff0edc096.png" height="425">
 </div>
 
 <hr />
@@ -30,3 +30,7 @@ Projeto construido com as Tecnologias a Atuais
 - ⚛️ **React Native** — Uma Biblioteca que possibilita criação de Apps Nativos para Android/iOs
 - 💹 **Node Js** — Permite trabalhar com Javascript em Servidores
 - 📄 **SQLite** — Banco de Dados Relacional
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
