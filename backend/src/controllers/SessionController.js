@@ -1,4 +1,6 @@
 const connection = require('../database/connection');
+const jwt = require('jsonwebtoken');
+const authConfig = require('../config/auth');
 
 module.exports = {
   async create(request, response) {
@@ -13,6 +15,16 @@ module.exports = {
         return response.status(400).json({ error: 'No ONG found with this ID'}); 
       }
 
-    return response.json(ong);
+    const { name } = ong;
+
+    return response.json({
+      ong: {
+        id,
+        name
+      },
+      token: jwt.sign({ id }, authConfig.secret, {
+        expiresIn: authConfig.expiresIn,
+      }),
+    });
   },
 };

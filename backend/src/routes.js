@@ -1,5 +1,6 @@
 const express = require('express');
 const { celebrate, Segments, Joi } = require('celebrate');
+const authMiddleware = require('./middlewares/auth');
 
 const OngController = require('./controllers/OngController');
 const IncidentController = require('./controllers/IncidentController');
@@ -21,12 +22,16 @@ routes.post('/ongs', celebrate({
   }),
 }),OngController.create);
 
+routes.use(authMiddleware)
+
 routes.get('/incidents', celebrate({
   [Segments.QUERY]: Joi.object().keys({
     page: Joi.number(),
   }),
 }),IncidentController.index);
+
 routes.post('/incidents', IncidentController.create);
+
 routes.delete('/incidents/:id', celebrate({
   [Segments.PARAMS]: Joi.object().keys({
     id: Joi.number().required(),
