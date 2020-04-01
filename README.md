@@ -17,7 +17,7 @@
 
 <p>O intuito do projeto é construir uma aplicação web e moblie para conectar valuntários que queiram ajudar as ONGs nos seus projetos !</p>
 <div>
-  <img src="https://user-images.githubusercontent.com/18500523/78086672-0d60f200-7395-11ea-8a7b-abd454e31b84.gif" height="380">
+  <img src="https://user-images.githubusercontent.com/18500523/78086672-0d60f200-7395-11ea-8a7b-abd454e31b84.gif" height="280">
   <img src="https://user-images.githubusercontent.com/18500523/77492785-2c550680-6e20-11ea-8faa-98db2395dc32.png" height="380">
 </div>
 
@@ -47,6 +47,14 @@ Projeto construido com as Tecnologias Atuais da Web.
 1. Entre na pasta forntend: `cd frontend`
 2. Execute `yarn` para instalar as dependências do projeto<br />
 3. Execute `yarn start` para iniciar a aplicação
+
+### Como Iniciar a aplicação mobile
+
+1. Entre na pasta mobile `cd mobile`
+2. Execute `yarn` para instalar as dependências do projeto<br />
+3. instale o expo `yarn add global expo-cli`
+4. inicie o expo `expo start`
+5. e leia o QR code que aparecer no terminal.
 
 ## Licença
 
